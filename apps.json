@@ -1,0 +1,27 @@
+{
+  "name": "Yattee",
+  "identifier": "stream.yattee",
+  "sourceURL": "https://alt.yattee.stream/apps.json",
+  "apps": [
+    {
+      "name": "Yattee",
+      "bundleIdentifier": "stream.yattee.app",
+      "developerName": "Yattee Team",
+      "subtitle": "Video player for Invidious and Piped",
+      "version": "1.1",
+      "versionDate": "2021-11-16",
+      "versionDescription": "- Added Piped accounts support\n- Enabled text selection for video description\n- Fixed share functionality which was occasionally using an incorrect URL\n- Other minor improvements",
+      "downloadURL": "https://github.com/yattee/app/releases/download/v1.1/Yattee-1.1-iOS.ipa",
+      "localizedDescription": "Video player with support for Invidious and Piped instances built for iOS 15, tvOS 15 and macOS Monterey.\nFeatures:\n- Native user interface built with SwiftUI\n- Multiple instances and accounts, fast switching\n- SponsorBlock, configurable categories to skip\n- Player queue and history\n- Fullscreen playback, Picture in Picture and AirPlay support\n- Stream quality selection\n- Favorites: customizable section of channels, playlists, trending, searches and other views\n- URL Scheme for integrations",
+      "iconURL": "https://r.yattee.stream/icons/yattee-300-rectangle.png",
+      "tintColor": "21335C",
+      "size": 2250406,
+      "beta": false,
+      "screenshotURLs": [
+        "https://r.yattee.stream/screenshots/iOS/trending.png",
+        "https://r.yattee.stream/screenshots/iOS/player.png",
+        "https://r.yattee.stream/screenshots/iOS/search-suggestions.png"
+      ]
+    }
+  ]
+}
